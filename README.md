@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 # You aren't slow, you just haven't optimized your workflow :)
 
-- Check out my GHOST blog!    
-[![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)](https://itsignacioportal.github.io/)
+Check out my Ghost blog!    
+- [ItsIgnacioPortal.github.io](https://itsignacioportal.github.io)
 
-- I'm also on 
-
-Some tooling I use:
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
