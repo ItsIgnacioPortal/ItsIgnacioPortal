@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# You aren't slow, you just haven't optimized your workflow :)
+# Hi, I'm Ignacio Portal!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ItsIgnacioPortal&show_icons=true&theme=cobalt" width="380">
 
-Check out my Ghost blog!    
-- [ItsIgnacioPortal.github.io](https://itsignacioportal.github.io)
+Check out my blog: [https://itsignacioportal.github.io](https://itsignacioportal.github.io)
 
-[![HackerOne Profile](https://img.shields.io/badge/HackerOne-%23F2691C.svg?style=for-the-badge&logo=HackerOne&logoColor=ffffff)](https://hackerone.com/itsignacioportal?type=user) [![BugCrowd Profile](https://img.shields.io/badge/BugCrowd-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=ffffff)](https://bugcrowd.com/ItsIgnacioPortal) [![Intigriti Profile](https://img.shields.io/badge/intigriti-%23F2691C.svg?style=for-the-badge&logo=intigriti&logoColor=ffffff)](https://app.intigriti.com/profile/itsignacioportal) ![Kali](https://img.shields.io/badge/Kali-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-%23F2691C.svg?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-%23000000.svg?style=for-the-badge&logo=windows&logoColor=white) 
+I do bug-hunting, and FOSS development as a hobby.
+
+[![BugCrowd Profile](https://img.shields.io/badge/BugCrowd-%23F2691C.svg?style=for-the-badge&logo=bugcrowd&logoColor=ffffff)](https://bugcrowd.com/ItsIgnacioPortal) [![HackerOne Profile](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=HackerOne&logoColor=ffffff)](https://hackerone.com/itsignacioportal?type=user) [![Intigriti Profile](https://img.shields.io/badge/intigriti-%234C58A6.svg?style=for-the-badge&logo=intigriti&logoColor=ffffff)](https://app.intigriti.com/profile/itsignacioportal)
