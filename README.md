@@ -1,8 +1,4 @@
 <!--
-**ItsIgnacioPortal/ItsIgnacioPortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,4 +16,6 @@ Check out my blog: [https://itsignacioportal.github.io](https://itsignacioportal
 
 I do bug-hunting, and FOSS development as a hobby.
 
-[![BugCrowd Profile](https://img.shields.io/badge/BugCrowd-%23F2691C.svg?style=for-the-badge&logo=bugcrowd&logoColor=ffffff)](https://bugcrowd.com/ItsIgnacioPortal) [![HackerOne Profile](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=HackerOne&logoColor=ffffff)](https://hackerone.com/itsignacioportal?type=user) [![Intigriti Profile](https://img.shields.io/badge/intigriti-%234C58A6.svg?style=for-the-badge&logo=intigriti&logoColor=ffffff)](https://app.intigriti.com/profile/itsignacioportal)
+[![Intigriti Profile](https://img.shields.io/badge/intigriti-%234C58A6.svg?style=for-the-badge&logo=intigriti&logoColor=ffffff)](https://app.intigriti.com/profile/itsignacioportal) [![HackerOne Profile](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=HackerOne&logoColor=ffffff)](https://hackerone.com/itsignacioportal?type=user) [![BugCrowd Profile](https://img.shields.io/badge/BugCrowd-%23F2691C.svg?style=for-the-badge&logo=bugcrowd&logoColor=ffffff)](https://bugcrowd.com/ItsIgnacioPortal) 
+
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://ar.linkedin.com/in/ignacio-joaquin-perez-portal) [![Send me an email!](https://img.shields.io/badge/Contact%20me-%23896DFD.svg?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:5990@protonmail.com) [![My LinkTree](https://img.shields.io/badge/LinkTree-%23CDE026.svg?style=for-the-badge&logo=linktree&logoColor=000000)](https://linktr.ee/itsignacioportal)
