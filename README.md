@@ -18,4 +18,8 @@ I do bug-hunting, and FOSS development as a hobby.
 
 [![Intigriti Profile](https://img.shields.io/badge/intigriti-%234C58A6.svg?style=for-the-badge&logo=intigriti&logoColor=ffffff)](https://app.intigriti.com/profile/itsignacioportal) [![HackerOne Profile](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=HackerOne&logoColor=ffffff)](https://hackerone.com/itsignacioportal?type=user) [![BugCrowd Profile](https://img.shields.io/badge/BugCrowd-%23F2691C.svg?style=for-the-badge&logo=bugcrowd&logoColor=ffffff)](https://bugcrowd.com/ItsIgnacioPortal) 
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://ar.linkedin.com/in/ignacio-joaquin-perez-portal) [![Send me an email!](https://img.shields.io/badge/Contact%20me-%23896DFD.svg?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:5990@protonmail.com) [![My LinkTree](https://img.shields.io/badge/LinkTree-%23CDE026.svg?style=for-the-badge&logo=linktree&logoColor=000000)](https://linktr.ee/itsignacioportal)
+<p align="left">
+  <a href="https://ar.linkedin.com/in/ignacio-joaquin-perez-portal"><img alt="Linkedin Profile" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
+  <img alt="Picture of text. If you're hearing this, message me on linked in." src="contact.png" height=28>
+  <a href="https://linktr.ee/itsignacioportal"><img alt="My LinkTree" src="https://img.shields.io/badge/LinkTree-%23CDE026.svg?style=for-the-badge&logo=linktree&logoColor=000000"></a>
+</p>
