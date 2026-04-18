@@ -14,7 +14,7 @@
 
 Check out my blog: [https://itsignacioportal.github.io](https://itsignacioportal.github.io)
 
-I do bug-hunting, and FOSS development as a hobby.
+I do cybersecurity bug-bounty, and FOSS development as a hobby.
 
 [![Intigriti Profile](https://img.shields.io/badge/intigriti-%234C58A6.svg?style=for-the-badge&logo=intigriti&logoColor=ffffff)](https://app.intigriti.com/profile/itsignacioportal) [![HackerOne Profile](https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=HackerOne&logoColor=ffffff)](https://hackerone.com/itsignacioportal?type=user) [![BugCrowd Profile](https://img.shields.io/badge/BugCrowd-%23F2691C.svg?style=for-the-badge&logo=bugcrowd&logoColor=ffffff)](https://bugcrowd.com/ItsIgnacioPortal) 
 
